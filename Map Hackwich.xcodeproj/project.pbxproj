@@ -11,6 +11,7 @@
 		3F927BA427C545B000DEBF3D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F927BA327C545B000DEBF3D /* ContentView.swift */; };
 		3F927BA627C545B600DEBF3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F927BA527C545B600DEBF3D /* Assets.xcassets */; };
 		3F927BA927C545B600DEBF3D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F927BA827C545B600DEBF3D /* Preview Assets.xcassets */; };
+		3F927BB127C5495B00DEBF3D /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F927BB027C5495B00DEBF3D /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F927BA527C545B600DEBF3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F927BA827C545B600DEBF3D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F927BAA27C545B600DEBF3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F927BB027C5495B00DEBF3D /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3F927BA127C545B000DEBF3D /* Map_HackwichApp.swift */,
 				3F927BA327C545B000DEBF3D /* ContentView.swift */,
+				3F927BB027C5495B00DEBF3D /* LocationManager.swift */,
 				3F927BA527C545B600DEBF3D /* Assets.xcassets */,
 				3F927BAA27C545B600DEBF3D /* Info.plist */,
 				3F927BA727C545B600DEBF3D /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				3F927BA427C545B000DEBF3D /* ContentView.swift in Sources */,
 				3F927BA227C545B000DEBF3D /* Map_HackwichApp.swift in Sources */,
+				3F927BB127C5495B00DEBF3D /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
